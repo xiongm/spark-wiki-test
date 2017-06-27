@@ -1,3 +1,6 @@
+# python ./download.py 2016 08 09
+# will download whole August's data
+
 from __future__ import print_function
 
 import os
